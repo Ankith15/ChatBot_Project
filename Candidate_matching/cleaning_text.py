@@ -29,3 +29,5 @@ def cleaning(text, remove_stopwords=False, lemmatize=False):
     cleantxt = ' '.join(words)
     
     return cleantxt
+
+    
